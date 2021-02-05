@@ -5,7 +5,7 @@ te zetten zodat je allleen de variabele hoeft te wijzigen
 
 # install #
 
-[Installeren Met behulp van node](https://sass-lang.com/install)
+[Installeren met behulp van node](https://sass-lang.com/install)
 
 ```dotnetcli
 npm install -g sass
