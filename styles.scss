@@ -1,0 +1,17 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: #333;
+$background-color: rgb(230, 150, 21);
+
+body {
+    background-color: $background-color;
+  }
+  
+  h1 {
+    color: $primary-color;
+    text-align: center;
+  }
+  
+  p {
+    font-family: $font-stack;
+    font-size: 20px;
+  }
